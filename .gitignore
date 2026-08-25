@@ -23,3 +23,6 @@ cdk.out/
 
 # macOS
 .DS_Store
+
+# 個人の勉強用メモ
+takaesu-note/
